@@ -1,0 +1,2 @@
+contents write to file
+Tue Mar  6 15:37:11 CST 2018
